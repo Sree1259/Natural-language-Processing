@@ -67,4 +67,4 @@ Apply NLP Techniques – Sentiment analysis, topic modelling, text generation
 Share Insights – Communicate findings through visualizations and examples
 
 The project is to find answer for 
-# "Why is this comedian different from others?"
+# "Why is this comedian routine different from others?"
