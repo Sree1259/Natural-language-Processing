@@ -54,7 +54,7 @@ Topic Modelling (LDA) – latent theme extraction from text
 
 Text Generation Models – sequence prediction and pattern-based generation
 
-🔁 Data Science Workflow
+## Data Science Workflow
 
 Define Question – What are we trying to learn or predict?
 
@@ -66,16 +66,5 @@ Apply NLP Techniques – Sentiment analysis, topic modelling, text generation
 
 Share Insights – Communicate findings through visualizations and examples
 
-💡 Communication & Insights
-
-Scope: Explore, visualize, and extract insights from unstructured text
-
-Outcome:
-
-Identify customer sentiment trends
-
-Categorize communication types automatically
-
-Generate creative or thematic quotes
-
-Impact: Enhance understanding of language-driven data and demonstrate practical NLP applications
+The project is to find answer for 
+# "Why is this comedian different from others?"
